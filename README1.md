@@ -111,7 +111,7 @@ Unlike traditional enhancement techniques that rely solely on handcrafted filter
 
 ---
 
-## 🙏 Acknowledgements
+## 🙏 Acknowledgements!
 
 Special thanks to the open-source community and the developers of:
 
