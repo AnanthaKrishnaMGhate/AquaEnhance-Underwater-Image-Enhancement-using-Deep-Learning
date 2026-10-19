@@ -1,4 +1,4 @@
-## 🎯 Project Objective
+## 🎯 Project Objective!
 
 Underwater images often suffer from poor visibility, color degradation, low contrast, and scattering effects due to light absorption in water. AquaEnhance aims to restore underwater images using deep learning techniques, producing visually appealing and information-rich results suitable for research and real-world applications.
 
