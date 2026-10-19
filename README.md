@@ -78,7 +78,11 @@ AquaEnhance/
 
 ---
 
+<<<<<<< Updated upstream
 ## 🚀 Installation
+=======
+## 🚀 Installation 
+>>>>>>> Stashed changes
 
 ```bash
 git clone https://github.com/your-username/AquaEnhance.git
