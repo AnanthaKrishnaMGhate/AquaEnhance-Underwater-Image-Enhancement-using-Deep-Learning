@@ -104,7 +104,7 @@ http://localhost:8501
 
 ---
 
-## 💾 Model
+## 💾 Model!
 
 Place the trained model file:
 
